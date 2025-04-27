@@ -1,0 +1,17 @@
+id,anger,disgust,fear,joy,sadness,surprise,reasoning
+esp_dev_track_a_00001,0,0,0,0,1,0,"Explanation:
+For sadness:
+- Use of ""Lástima"" (pity/shame) directly expresses regret or disappointment
+- The sad emoticon "":("" explicitly conveys sadness
+- The sentiment about something ""desaparecer"" (disappearing) implies loss
+
+For other emotions:
+- Joy: No evidence
+- Fear: No evidence
+- Anger: No evidence
+- Disgust: No evidence
+- Surprise: No evidence
+
+The text clearly expresses disappointment and sadness about something that will disappear, with both lexical choices (""Lástima"") and emotional symbols ("":("" emoticon) supporting this interpretation.
+
+Final Classification:"
